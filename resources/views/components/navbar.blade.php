@@ -17,11 +17,11 @@
 
     <!-- Desktop Menu -->
     <ul class="desktop-menu">
-      <li><a href="welcome.blade.php">HOME</a></li>
+      <li><a href="{{ route('welcome') }}">HOME</a></li>
       <li><a href="{{ route('about') }}">ABOUT</a></li>
-      <li><a href="gallery.html">GALLERY</a></li>
-      <li><a href="shop.html">SHOP</a></li>
-      <li><a href="contact.html">CONTACT</a></li>
+      <li><a href="{{ route('gallery') }}">GALLERY</a></li>
+      <li><a href="{{ route('shop') }}">SHOP</a></li>
+      <li><a href="{{ route('contact') }}">CONTACT</a></li>
       <li style="padding-left: 196px;"><a href="contact.html" class="quote-btn">GET A QUOTE</a></li>
     </ul>
 

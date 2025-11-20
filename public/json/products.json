@@ -4,7 +4,7 @@
     "name": "10101 alba longa",
     "description": "A luxurious marble with soft, delicate veining that adds a timeless elegance to any space.",
     "price": 25,
-    "images": ["images/shop-prod/alba1.webp", "images/shop-prod/alba2.webp"],
+    "images": ["img/shop-prod/alba1.webp", "img/shop-prod/alba2.webp"],
     "latest": "yes"
   },
   {
@@ -13,8 +13,8 @@
     "description": "Sleek white marble featuring striking golden veins, perfect for refined spaces.",
     "price": 27,
     "images": [
-      "images/shop-prod/c-bellus1.webp",
-      "images/shop-prod/c-bellus2.webp"
+      "img/shop-prod/c-bellus1.webp",
+      "img/shop-prod/c-bellus2.webp"
     ],
     "popularity": "yes"
   },
@@ -24,8 +24,8 @@
     "description": "Elegant white marble with soft peach veins, ideal for modern kitchen designs.",
     "price": 28,
     "images": [
-      "images/shop-prod/c-clarie1.webp",
-      "images/shop-prod/c-clarie2.webp"
+      "img/shop-prod/c-clarie1.webp",
+      "img/shop-prod/c-clarie2.webp"
     ],
     "latest": "yes"
   },
@@ -34,7 +34,7 @@
     "name": "10104 calacatta fiero",
     "description": "Classic white marble with bold gray veins for a striking aesthetic.",
     "price": 30,
-    "images": ["images/shop-prod/fiero1.webp", "images/shop-prod/fiero2.webp"],
+    "images": ["img/shop-prod/fiero1.webp", "img/shop-prod/fiero2.webp"],
     "popularity": "yes"
   },
   {
@@ -43,8 +43,8 @@
     "description": "A marble with intricate veining, offering a sophisticated touch to any interior.",
     "price": 29,
     "images": [
-      "images/shop-prod/magranis1.webp",
-      "images/shop-prod/magranis2.webp"
+      "img/shop-prod/magranis1.webp",
+      "img/shop-prod/magranis2.webp"
     ],
     "latest": "yes"
   },
@@ -53,7 +53,7 @@
     "name": "10106 calacatta maia",
     "description": "This bright marble with creamy white tones and subtle golden veins adds a touch of luxury to any surface.",
     "price": 26,
-    "images": ["images/shop-prod/maia1.webp", "images/shop-prod/maia2.webp"],
+    "images": ["img/shop-prod/maia1.webp", "img/shop-prod/maia2.webp"],
     "popularity": "yes"
   },
   {
@@ -61,7 +61,7 @@
     "name": "10107 calacatta nisus",
     "description": "Soft white marble with subtle brown veining, perfect for minimalist and modern interior designs.",
     "price": 27,
-    "images": ["images/shop-prod/nisus1.webp", "images/shop-prod/nisus2.webp"],
+    "images": ["img/shop-prod/nisus1.webp", "img/shop-prod/nisus2.webp"],
     "latest": "yes"
   },
   {
@@ -70,8 +70,8 @@
     "description": "A refined marble featuring delicate gray and gold veins, offering a serene, elegant look.",
     "price": 26,
     "images": [
-      "images/shop-prod/sennas1.webp",
-      "images/shop-prod/sennas2.webp"
+      "img/shop-prod/sennas1.webp",
+      "img/shop-prod/sennas2.webp"
     ],
     "popularity": "yes"
   },
@@ -80,7 +80,7 @@
     "name": "10109 kiria",
     "description": "A pristine white marble with soft veins, offering a timeless and clean aesthetic.",
     "price": 24,
-    "images": ["images/shop-prod/kiria1.webp", "images/shop-prod/kiria2.webp"],
+    "images": ["img/shop-prod/kiria1.webp", "img/shop-prod/kiria2.webp"],
     "latest": "yes"
   },
   {
@@ -89,8 +89,8 @@
     "description": "White marble with fine gold veining, bringing warmth and elegance to luxurious spaces.",
     "price": 32,
     "images": [
-      "images/shop-prod/saravento1.webp",
-      "images/shop-prod/saravento2.webp"
+      "img/shop-prod/saravento1.webp",
+      "img/shop-prod/saravento2.webp"
     ],
     "popularity": "yes"
   },
@@ -100,8 +100,8 @@
     "description": "A sophisticated marble with beautiful soft gray veins, creating a timeless aesthetic.",
     "price": 31,
     "images": [
-      "images/shop-prod/strataveris1.webp",
-      "images/shop-prod/strataveris2.webp"
+      "img/shop-prod/strataveris1.webp",
+      "img/shop-prod/strataveris2.webp"
     ],
     "latest": "yes"
   },
@@ -111,8 +111,8 @@
     "description": "Bright white marble with subtle veining, offering a minimalist yet luxurious feel.",
     "price": 25,
     "images": [
-      "images/shop-prod/teravia1.webp",
-      "images/shop-prod/teravia2.webp"
+      "img/shop-prod/teravia1.webp",
+      "img/shop-prod/teravia2.webp"
     ],
     "popularity": "yes"
   },
@@ -123,8 +123,8 @@
     "price": 29,
     "images": [
       
-      "images/shop-prod/borghini1.webp",
-      "images/shop-prod/borghini2.webp"
+      "img/shop-prod/borghini1.webp",
+      "img/shop-prod/borghini2.webp"
     ],
     "latest": "yes"
   },
@@ -134,8 +134,8 @@
     "description": "Elegant marble with luxurious golden veining, ideal for high-end interiors.",
     "price": 33,
     "images": [
-      "images/shop-prod/borghini-g1.webp",
-      "images/shop-prod/borghini-g2.webp"
+      "img/shop-prod/borghini-g1.webp",
+      "img/shop-prod/borghini-g2.webp"
     ],
     "popularity": "yes"
   },
@@ -145,8 +145,8 @@
     "description": "Subtle gray veins make this marble a perfect choice for those seeking a sophisticated look.",
     "price": 27,
     "images": [
-      "images/shop-prod/c-claire-g1.webp",
-      "images/shop-prod/c-claire-g2.webp"
+      "img/shop-prod/c-claire-g1.webp",
+      "img/shop-prod/c-claire-g2.webp"
     ],
     "latest": "yes"
   },
@@ -156,8 +156,8 @@
     "description": "A modern white marble with bold gray veins, creating a striking focal point in any room.",
     "price": 25,
     "images": [
-      "images/shop-prod/c-loren1.webp",
-      "images/shop-prod/c-loren2.webp"
+      "img/shop-prod/c-loren1.webp",
+      "img/shop-prod/c-loren2.webp"
     ],
     "popularity": "yes"
   },
@@ -167,8 +167,8 @@
     "description": "Dark gray marble with golden accents, offering a warm and sophisticated aesthetic.",
     "price": 33,
     "images": [
-      "images/shop-prod/solesta1.webp",
-      "images/shop-prod/solesta2.webp"
+      "img/shop-prod/solesta1.webp",
+      "img/shop-prod/solesta2.webp"
     ]
   },
   {
@@ -177,8 +177,8 @@
     "description": "A white marble with delicate gold and gray veins, bringing luxury to any space.",
     "price": 30,
     "images": [
-      "images/shop-prod/c-valoria1.webp",
-      "images/shop-prod/c-valoria2.webp"
+      "img/shop-prod/c-valoria1.webp",
+      "img/shop-prod/c-valoria2.webp"
     ]
   },
   {
@@ -187,8 +187,8 @@
     "description": "Light marble with soft veins, ideal for modern and minimalistic spaces.",
     "price": 28,
     "images": [
-      "images/shop-prod/c-blanvera1.webp",
-      "images/shop-prod/c-blanvera2.webp"
+      "img/shop-prod/c-blanvera1.webp",
+      "img/shop-prod/c-blanvera2.webp"
     ]
   },
   {
@@ -197,8 +197,8 @@
     "description": "Bright white marble with gold and gray veins, creating a sophisticated and elegant atmosphere.",
     "price": 32,
     "images": [
-      "images/shop-prod/c-athena1.webp",
-      "images/shop-prod/c-athena2.webp"
+      "img/shop-prod/c-athena1.webp",
+      "img/shop-prod/c-athena2.webp"
     ]
   },
   {
@@ -207,8 +207,8 @@
     "description": "Subtle white marble with sleek gray veins, ideal for modern interiors.",
     "price": 27,
     "images": [
-      "images/shop-prod/c-arlena1.webp",
-      "images/shop-prod/c-arlena2.webp"
+      "img/shop-prod/c-arlena1.webp",
+      "img/shop-prod/c-arlena2.webp"
     ]
   },
   {
@@ -216,7 +216,7 @@
     "name": "10122 bianco lassa lux",
     "description": "A sophisticated white marble with delicate veins for a luxurious aesthetic.",
     "price": 26,
-    "images": ["images/shop-prod/bianco1.webp", "images/shop-prod/bianco2.webp"]
+    "images": ["img/shop-prod/bianco1.webp", "img/shop-prod/bianco2.webp"]
   },
   {
     "id": 23,
@@ -224,8 +224,8 @@
     "description": "White marble with warm golden veining, bringing opulence to any design.",
     "price": 30,
     "images": [
-      "images/shop-prod/c-florance-g1.webp",
-      "images/shop-prod/c-florance-g2.webp"
+      "img/shop-prod/c-florance-g1.webp",
+      "img/shop-prod/c-florance-g2.webp"
     ]
   },
   {
@@ -234,8 +234,8 @@
     "description": "Soft white marble with gold and gray veining, offering a warm and refined look.",
     "price": 315,
     "images": [
-      "images/shop-prod/c-dorado1.webp",
-      "images/shop-prod/c-dorado2.webp"
+      "img/shop-prod/c-dorado1.webp",
+      "img/shop-prod/c-dorado2.webp"
     ]
   },
   {
@@ -244,8 +244,8 @@
     "description": "Warm bronze-toned quartz surface with subtle metallic accents. Ideal for creating sophisticated and inviting kitchen countertops.",
     "price": 28,
     "images": [
-      "images/shop-prod/adira-bronze-2.webp",
-      "images/shop-prod/adira-bronze-1.webp"
+      "img/shop-prod/adira-bronze-2.webp",
+      "img/shop-prod/adira-bronze-1.webp"
     ]
   },
   {
@@ -254,8 +254,8 @@
     "description": "Rich bronze surface with elegant veining patterns throughout. Perfect for adding luxury to both residential and commercial spaces.",
     "price": 32,
     "images": [
-      "images/shop-prod/c-bronze-2.webp",
-      "images/shop-prod/c-bronze-1.webp"
+      "img/shop-prod/c-bronze-2.webp",
+      "img/shop-prod/c-bronze-1.webp"
     ]
   },
   {
@@ -264,8 +264,8 @@
     "description": "Sophisticated grey quartz with dramatic bronze accent veining. Creates a striking contrast in modern interior designs.",
     "price": 31,
     "images": [
-      "images/shop-prod/c-grey-2.webp",
-      "images/shop-prod/c-grey-1.webp"
+      "img/shop-prod/c-grey-2.webp",
+      "img/shop-prod/c-grey-1.webp"
     ]
   },
   {
@@ -274,8 +274,8 @@
     "description": "Contemporary grey surface with subtle texture and movement. Excellent for creating sleek, modern kitchen environments.",
     "price": 26,
     "images": [
-      "images/shop-prod/i-grey-2.webp",
-      "images/shop-prod/i-grey-1.webp"
+      "img/shop-prod/i-grey-2.webp",
+      "img/shop-prod/i-grey-1.webp"
     ]
   },
   {
@@ -284,8 +284,8 @@
     "description": "Clean white quartz with delicate grey veining patterns. Brings brightness and elegance to any bathroom or kitchen space.",
     "price": 27,
     "images": [
-      "images/shop-prod/i-white-2.webp",
-      "images/shop-prod/i-white-1.webp"
+      "img/shop-prod/i-white-2.webp",
+      "img/shop-prod/i-white-1.webp"
     ]
   },
   {
@@ -294,8 +294,8 @@
     "description": "Smoke-toned surface with sophisticated grey undertones. Perfect for creating moody, contemporary interior statements.",
     "price": 29,
     "images": [
-      "images/shop-prod/i-smoke-2.webp",
-      "images/shop-prod/i-smoke-1.webp"
+      "img/shop-prod/i-smoke-2.webp",
+      "img/shop-prod/i-smoke-1.webp"
     ]
   },
   {
@@ -304,8 +304,8 @@
     "description": "Light wood-effect quartz with natural grain patterns. Combines the warmth of wood with quartz's durability and ease of maintenance.",
     "price": 33,
     "images": [
-      "images/shop-prod/s-wood-light-2.webp",
-      "images/shop-prod/s-wood-light-1.webp"
+      "img/shop-prod/s-wood-light-2.webp",
+      "img/shop-prod/s-wood-light-1.webp"
     ]
   },
   {
@@ -314,8 +314,8 @@
     "description": "Ethereal surface with moon-like glow and subtle crystalline effects. Creates a serene and luxurious atmosphere in any room.",
     "price": 35,
     "images": [
-      "images/shop-prod/a-lunae-2.webp",
-      "images/shop-prod/a-lunae-1.webp"
+      "img/shop-prod/a-lunae-2.webp",
+      "img/shop-prod/a-lunae-1.webp"
     ]
   },
   {
@@ -324,8 +324,8 @@
     "description": "Rich brown natural stone appearance with earthy undertones. Ideal for creating warm, inviting spaces with natural elegance.",
     "price": 30,
     "images": [
-      "images/shop-prod/d-brown-2.webp",
-      "images/shop-prod/d-brown-1.webp"
+      "img/shop-prod/d-brown-2.webp",
+      "img/shop-prod/d-brown-1.webp"
     ]
   },
   {
@@ -334,8 +334,8 @@
     "description": "Elegant natural quartz with soft veining and organic movement. Perfect for traditional and transitional design schemes.",
     "price": 28,
     "images": [
-      "images/shop-prod/elvare-2.webp",
-      "images/shop-prod/elvare-1.webp"
+      "img/shop-prod/elvare-2.webp",
+      "img/shop-prod/elvare-1.webp"
     ]
   },
   {
@@ -344,8 +344,8 @@
     "description": "Dark dramatic surface with bold natural patterning. Makes a powerful statement in contemporary interior applications.",
     "price": 32,
     "images": [
-      "images/shop-prod/g-more-2.webp",
-      "images/shop-prod/g-more-1.webp"
+      "img/shop-prod/g-more-2.webp",
+      "img/shop-prod/g-more-1.webp"
     ]
   },
   {
@@ -354,8 +354,8 @@
     "description": "Pure white background with delicate cloud-like formations. Creates a sense of airiness and spaciousness in any room.",
     "price": 27,
     "images": [
-      "images/shop-prod/n-white-2.webp",
-      "images/shop-prod/n-white-1.webp"
+      "img/shop-prod/n-white-2.webp",
+      "img/shop-prod/n-white-1.webp"
     ]
   },
   {
@@ -363,14 +363,14 @@
     "name": "10311 onyra",
     "description": "Luxurious surface with onyx-like translucency and depth. Perfect for feature walls and premium residential applications.",
     "price": 38,
-    "images": ["images/shop-prod/onyra-2.webp", "images/shop-prod/onyra-1.webp"]
+    "images": ["img/shop-prod/onyra-2.webp", "img/shop-prod/onyra-1.webp"]
   },
   {
     "id": 38,
     "name": "10312 petra pax",
     "description": "Natural stone appearance with peaceful, organic patterning. Creates harmonious environments in both homes and offices.",
     "price": 29,
-    "images": ["images/shop-prod/p-pax-2.webp", "images/shop-prod/p-pax-1.webp"]
+    "images": ["img/shop-prod/p-pax-2.webp", "img/shop-prod/p-pax-1.webp"]
   },
   {
     "id": 39,
@@ -378,8 +378,8 @@
     "description": "Sun-kissed surface with warm golden undertones and subtle sparkle. Brings cheerful energy to kitchens and living spaces.",
     "price": 31,
     "images": [
-      "images/shop-prod/solivante-2.webp",
-      "images/shop-prod/solivante-1.webp"
+      "img/shop-prod/solivante-2.webp",
+      "img/shop-prod/solivante-1.webp"
     ]
   },
   {
@@ -388,8 +388,8 @@
     "description": "Soft bone-colored surface with elegant natural veining. Ideal for creating timeless, classic interior designs.",
     "price": 26,
     "images": [
-      "images/shop-prod/v-bone-2.webp",
-      "images/shop-prod/v-bone-1.webp"
+      "img/shop-prod/v-bone-2.webp",
+      "img/shop-prod/v-bone-1.webp"
     ]
   },
   {
@@ -398,8 +398,8 @@
     "description": "Celestial-inspired surface with star-like crystalline formations. Creates dramatic focal points in luxury interiors.",
     "price": 36,
     "images": [
-      "images/shop-prod/o-halo-2.webp",
-      "images/shop-prod/o-halo-1.webp"
+      "img/shop-prod/o-halo-2.webp",
+      "img/shop-prod/o-halo-1.webp"
     ]
   },
   {
@@ -408,8 +408,8 @@
     "description": "Textured surface with muscular, dynamic veining patterns. Perfect for adding movement and energy to modern spaces.",
     "price": 33,
     "images": [
-      "images/shop-prod/v-muscles-2.webp",
-      "images/shop-prod/v-muscles-1.webp"
+      "img/shop-prod/v-muscles-2.webp",
+      "img/shop-prod/v-muscles-1.webp"
     ]
   },
   {
@@ -418,8 +418,8 @@
     "description": "Graceful surface with flowing, elegant veining throughout. Creates sophisticated and welcoming interior environments.",
     "price": 30,
     "images": [
-      "images/shop-prod/elanora-2.webp",
-      "images/shop-prod/elanora-1.webp"
+      "img/shop-prod/elanora-2.webp",
+      "img/shop-prod/elanora-1.webp"
     ]
   },
   {
@@ -428,8 +428,8 @@
     "description": "Sea-inspired surface with watery movement and oceanic tones. Perfect for creating serene, coastal-themed interiors.",
     "price": 29,
     "images": [
-      "images/shop-prod/nerissa-2.webp",
-      "images/shop-prod/nerissa-1.webp"
+      "img/shop-prod/nerissa-2.webp",
+      "img/shop-prod/nerissa-1.webp"
     ]
   },
   {
@@ -438,8 +438,8 @@
     "description": "Bold surface with strong, radiant patterning like sun rays. Makes a powerful statement in contemporary design projects.",
     "price": 34,
     "images": [
-      "images/shop-prod/r-fuerte-2.webp",
-      "images/shop-prod/r-fuerte-1.webp"
+      "img/shop-prod/r-fuerte-2.webp",
+      "img/shop-prod/r-fuerte-1.webp"
     ]
   },
   {
@@ -448,8 +448,8 @@
     "description": "Mysterious surface with deep, enigmatic patterns and colors. Creates intriguing focal points in luxury interior designs.",
     "price": 42,
     "images": [
-      "images/shop-prod/arcana-2.webp",
-      "images/shop-prod/arcana-1.webp"
+      "img/shop-prod/arcana-2.webp",
+      "img/shop-prod/arcana-1.webp"
     ]
   },
   {
@@ -458,8 +458,8 @@
     "description": "Wild, natural appearance with untamed organic movement. Perfect for creating dramatic, nature-inspired interiors.",
     "price": 39,
     "images": [
-      "images/shop-prod/selvion-2.webp",
-      "images/shop-prod/selvion-1.webp"
+      "img/shop-prod/selvion-2.webp",
+      "img/shop-prod/selvion-1.webp"
     ]
   },
   {
@@ -468,8 +468,8 @@
     "description": "Ocean-inspired surface with deep blue and green aquatic tones. Creates stunning water-like effects in premium applications.",
     "price": 45,
     "images": [
-      "images/shop-prod/posiedra-2.webp",
-      "images/shop-prod/posiedra-1.webp"
+      "img/shop-prod/posiedra-2.webp",
+      "img/shop-prod/posiedra-1.webp"
     ]
   },
   {
@@ -478,8 +478,8 @@
     "description": "Luxury Calacatta marble with stunning blue veining accents. The ultimate statement piece for high-end kitchen designs.",
     "price": 48,
     "images": [
-      "images/shop-prod/c-azulora-2.webp",
-      "images/shop-prod/c-azulora-1.webp"
+      "img/shop-prod/c-azulora-2.webp",
+      "img/shop-prod/c-azulora-1.webp"
     ]
   },
   {
@@ -488,8 +488,8 @@
     "description": "Elegant Calacatta variation with soft mauve and grey veining. Adds sophisticated color to luxury residential projects.",
     "price": 46,
     "images": [
-      "images/shop-prod/c-malvenia-2.webp",
-      "images/shop-prod/c-malvenia-1.webp"
+      "img/shop-prod/c-malvenia-2.webp",
+      "img/shop-prod/c-malvenia-1.webp"
     ]
   },
   {
@@ -498,8 +498,8 @@
     "description": "Bold Calacatta design with striking cyan blue veining patterns. Creates dramatic contemporary statement surfaces.",
     "price": 47,
     "images": [
-      "images/shop-prod/c-cyanora-2.webp",
-      "images/shop-prod/c-cyanora-1.webp"
+      "img/shop-prod/c-cyanora-2.webp",
+      "img/shop-prod/c-cyanora-1.webp"
     ]
   },
   {
@@ -508,8 +508,8 @@
     "description": "Luxurious green-toned Calacatta with jade-like veining. Perfect for creating unique, nature-inspired luxury interiors.",
     "price": 49,
     "images": [
-      "images/shop-prod/c-jade-2.webp",
-      "images/shop-prod/c-jade-1.webp"
+      "img/shop-prod/c-jade-2.webp",
+      "img/shop-prod/c-jade-1.webp"
     ]
   },
   {
@@ -518,8 +518,8 @@
     "description": "Celadon-inspired surface with soft green-grey ceramic tones. Brings ancient ceramic elegance to modern applications.",
     "price": 41,
     "images": [
-      "images/shop-prod/celadonis-2.webp",
-      "images/shop-prod/celadonis-1.webp"
+      "img/shop-prod/celadonis-2.webp",
+      "img/shop-prod/celadonis-1.webp"
     ]
   },
   {
@@ -528,8 +528,8 @@
     "description": "Forest-inspired green surface with organic, leafy patterns. Creates natural, serene environments in interior spaces.",
     "price": 43,
     "images": [
-      "images/shop-prod/s-green-2.webp",
-      "images/shop-prod/s-green-1.webp"
+      "img/shop-prod/s-green-2.webp",
+      "img/shop-prod/s-green-1.webp"
     ]
   },
   {
@@ -538,8 +538,8 @@
     "description": "Floral-inspired surface with delicate blossom-like patterns. Adds romantic, elegant touches to bathroom vanities.",
     "price": 40,
     "images": [
-      "images/shop-prod/fiorisca-2.webp",
-      "images/shop-prod/fiorisca-1.webp"
+      "img/shop-prod/fiorisca-2.webp",
+      "img/shop-prod/fiorisca-1.webp"
     ]
   },
   {
@@ -548,8 +548,8 @@
     "description": "Dramatic Calacatta with fiery orange and gold veining patterns. Creates stunning, warm focal points in luxury interiors.",
     "price": 52,
     "images": [
-      "images/shop-prod/c-pheonix-2.webp",
-      "images/shop-prod/c-pheonix-1.webp"
+      "img/shop-prod/c-pheonix-2.webp",
+      "img/shop-prod/c-pheonix-1.webp"
     ]
   },
   {
@@ -557,7 +557,7 @@
     "name": "10412 andarin ash",
     "description": "Sophisticated ash-toned surface with subtle grey undertones. Perfect for creating minimalist, contemporary interior schemes.",
     "price": 38,
-    "images": ["images/shop-prod/a-ash-2.webp", "images/shop-prod/a-ash-1.webp"]
+    "images": ["img/shop-prod/a-ash-2.webp", "img/shop-prod/a-ash-1.webp"]
   },
   {
     "id": 58,
@@ -565,8 +565,8 @@
     "description": "Valley-inspired surface with flowing, landscape-like patterns. Creates organic, natural movement in interior designs.",
     "price": 44,
     "images": [
-      "images/shop-prod/valtheris-2.webp",
-      "images/shop-prod/valtheris-1.webp"
+      "img/shop-prod/valtheris-2.webp",
+      "img/shop-prod/valtheris-1.webp"
     ]
   },
   {
@@ -575,8 +575,8 @@
     "description": "Mystical silver surface with ethereal, light-catching particles. Creates magical, luminous effects in premium applications.",
     "price": 51,
     "images": [
-      "images/shop-prod/argemyst-2.webp",
-      "images/shop-prod/argemyst-1.webp"
+      "img/shop-prod/argemyst-2.webp",
+      "img/shop-prod/argemyst-1.webp"
     ]
   },
   {
@@ -585,8 +585,8 @@
     "description": "Winter-inspired surface with frosty white and crystal effects. Perfect for creating cool, serene interior environments.",
     "price": 46,
     "images": [
-      "images/shop-prod/f-vale-2.webp",
-      "images/shop-prod/f-vale-1.webp"
+      "img/shop-prod/f-vale-2.webp",
+      "img/shop-prod/f-vale-1.webp"
     ]
   },
   {
@@ -595,8 +595,8 @@
     "description": "Sea goddess-inspired surface with oceanic blues and greens. Creates stunning water-like movement in luxury designs.",
     "price": 49,
     "images": [
-      "images/shop-prod/thalora-2.webp",
-      "images/shop-prod/thalora-1.webp"
+      "img/shop-prod/thalora-2.webp",
+      "img/shop-prod/thalora-1.webp"
     ]
   },
   {
@@ -605,8 +605,8 @@
     "description": "Green sapphire-inspired surface with deep jewel tones. Creates luxurious, gem-like effects in premium interior applications.",
     "price": 55,
     "images": [
-      "images/shop-prod/z-verde-2.webp",
-      "images/shop-prod/z-verde-1.webp"
+      "img/shop-prod/z-verde-2.webp",
+      "img/shop-prod/z-verde-1.webp"
     ]
   },
   {
@@ -615,8 +615,8 @@
     "description": "Midnight-inspired surface with deep, dark mysterious tones. Perfect for creating dramatic, moody interior statements.",
     "price": 53,
     "images": [
-      "images/shop-prod/midnora-2.webp",
-      "images/shop-prod/midnora-1.webp"
+      "img/shop-prod/midnora-2.webp",
+      "img/shop-prod/midnora-1.webp"
     ]
   },
   {
@@ -625,8 +625,8 @@
     "description": "Vibrant green surface with lively, energetic movement patterns. Brings fresh, natural energy to contemporary spaces.",
     "price": 51,
     "images": [
-      "images/shop-prod/verintis-2.webp",
-      "images/shop-prod/verintis-1.webp"
+      "img/shop-prod/verintis-2.webp",
+      "img/shop-prod/verintis-1.webp"
     ]
   },
   {
@@ -635,8 +635,8 @@
     "description": "New earth-inspired surface with rich, terrestrial colors and textures. Creates grounded, natural interior environments.",
     "price": 49,
     "images": [
-      "images/shop-prod/terranova-2.webp",
-      "images/shop-prod/terranova-1.webp"
+      "img/shop-prod/terranova-2.webp",
+      "img/shop-prod/terranova-1.webp"
     ]
   },
   {
@@ -645,8 +645,8 @@
     "description": "Deep blue agate-inspired surface with translucent effects. Creates stunning, gem-like focal points in luxury designs.",
     "price": 58,
     "images": [
-      "images/shop-prod/a-blue-2.webp",
-      "images/shop-prod/a-blue-1.webp"
+      "img/shop-prod/a-blue-2.webp",
+      "img/shop-prod/a-blue-1.webp"
     ]
   },
   {
@@ -655,8 +655,8 @@
     "description": "River-inspired Calacatta with flowing blue water-like veining. Creates dynamic, movement-filled luxury surfaces.",
     "price": 56,
     "images": [
-      "images/shop-prod/c-fluvia-2.webp",
-      "images/shop-prod/c-fluvia-1.webp"
+      "img/shop-prod/c-fluvia-2.webp",
+      "img/shop-prod/c-fluvia-1.webp"
     ]
   },
   {
@@ -665,8 +665,8 @@
     "description": "Ethereal surface with airy, light-filled crystalline formations. Creates spacious, luminous effects in premium interiors.",
     "price": 54,
     "images": [
-      "images/shop-prod/aetheris-2.webp",
-      "images/shop-prod/aetheris-1.webp"
+      "img/shop-prod/aetheris-2.webp",
+      "img/shop-prod/aetheris-1.webp"
     ]
   },
   {
@@ -675,8 +675,8 @@
     "description": "Luxurious Calacatta variation with avant-garde artistic patterning. The ultimate statement piece for designer projects.",
     "price": 59,
     "images": [
-      "images/shop-prod/calavon-2.webp",
-      "images/shop-prod/calavon-1.webp"
+      "img/shop-prod/calavon-2.webp",
+      "img/shop-prod/calavon-1.webp"
     ]
   },
   {
@@ -685,8 +685,8 @@
     "description": "Artisanal-inspired surface with handcrafted appearance and texture. Perfect for creating unique, custom-designed interiors.",
     "price": 52,
     "images": [
-      "images/shop-prod/lavora-2.webp",
-      "images/shop-prod/lavora-1.webp"
+      "img/shop-prod/lavora-2.webp",
+      "img/shop-prod/lavora-1.webp"
     ]
   },
   {
@@ -695,8 +695,8 @@
     "description": "Plum-inspired surface with rich purple and burgundy undertones. Creates warm, luxurious atmospheres in interior spaces.",
     "price": 57,
     "images": [
-      "images/shop-prod/plumora-2.webp",
-      "images/shop-prod/plumora-1.webp"
+      "img/shop-prod/plumora-2.webp",
+      "img/shop-prod/plumora-1.webp"
     ]
   },
   {
@@ -705,8 +705,8 @@
     "description": "Sea-inspired surface with marine blue tones and oceanic movement. Creates serene, coastal luxury in interior applications.",
     "price": 55,
     "images": [
-      "images/shop-prod/marentis-2.webp",
-      "images/shop-prod/marentis-1.webp"
+      "img/shop-prod/marentis-2.webp",
+      "img/shop-prod/marentis-1.webp"
     ]
   },
   {
@@ -714,7 +714,7 @@
     "name": "10502 elyra",
     "description": "Elegant surface with lyrical, flowing patterns and soft colors. Creates harmonious, graceful interior environments.",
     "price": 50,
-    "images": ["images/shop-prod/elyra-2.webp", "images/shop-prod/elyra-1.webp"]
+    "images": ["img/shop-prod/elyra-2.webp", "img/shop-prod/elyra-1.webp"]
   },
   {
     "id": 74,
@@ -722,8 +722,8 @@
     "description": "Wing-inspired surface with light, airy patterns and luminous effects. Creates uplifting, spacious interior atmospheres.",
     "price": 53,
     "images": [
-      "images/shop-prod/alavora-2.webp",
-      "images/shop-prod/alavora-1.webp"
+      "img/shop-prod/alavora-2.webp",
+      "img/shop-prod/alavora-1.webp"
     ]
   },
   {
@@ -732,8 +732,8 @@
     "description": "Sky-inspired surface with cloud-like formations and airy blues. Creates open, expansive feelings in interior spaces.",
     "price": 51,
     "images": [
-      "images/shop-prod/skylora-2.webp",
-      "images/shop-prod/skylora-1.webp"
+      "img/shop-prod/skylora-2.webp",
+      "img/shop-prod/skylora-1.webp"
     ]
   },
   {
@@ -742,8 +742,8 @@
     "description": "Silk-inspired surface with soft, luxurious texture and sheen. Creates elegant, sophisticated interior applications.",
     "price": 56,
     "images": [
-      "images/shop-prod/silora-2.webp",
-      "images/shop-prod/silora-1.webp"
+      "img/shop-prod/silora-2.webp",
+      "img/shop-prod/silora-1.webp"
     ]
   },
   {
@@ -752,8 +752,8 @@
     "description": "Moon-inspired surface with soft glow and celestial patterns. Creates magical, romantic atmospheres in interior designs.",
     "price": 58,
     "images": [
-      "images/shop-prod/selenor-2.webp",
-      "images/shop-prod/selenor-1.webp"
+      "img/shop-prod/selenor-2.webp",
+      "img/shop-prod/selenor-1.webp"
     ]
   },
   {
@@ -762,8 +762,8 @@
     "description": "Harmonious surface with balanced, symmetrical patterns and colors. Creates peaceful, unified interior environments.",
     "price": 54,
     "images": [
-      "images/shop-prod/concordia-2.webp",
-      "images/shop-prod/concordia-1.webp"
+      "img/shop-prod/concordia-2.webp",
+      "img/shop-prod/concordia-1.webp"
     ]
   },
   {
@@ -772,8 +772,8 @@
     "description": "Ethereal surface with otherworldly patterns and luminous effects. Creates unique, visionary interior statement pieces.",
     "price": 60,
     "images": [
-      "images/shop-prod/etherion-2.webp",
-      "images/shop-prod/etherion-1.webp"
+      "img/shop-prod/etherion-2.webp",
+      "img/shop-prod/etherion-1.webp"
     ]
   },
   {
@@ -782,8 +782,8 @@
     "description": "Living song-inspired surface with rhythmic, musical patterns. Creates joyful, energetic atmospheres in interior spaces.",
     "price": 57,
     "images": [
-      "images/shop-prod/cantovivo-2.webp",
-      "images/shop-prod/cantovivo-1.webp"
+      "img/shop-prod/cantovivo-2.webp",
+      "img/shop-prod/cantovivo-1.webp"
     ]
   }
 ]

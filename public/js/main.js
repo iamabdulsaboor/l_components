@@ -37,43 +37,43 @@ JS TABLE OF CONTENTS
     /*-----------------------------------
           01. Mobile Menu  
         -----------------------------------*/
-    $("#mobile-menu").meanmenu({
-      meanMenuContainer: ".mobile-menu",
-      meanScreenWidth: "1199",
-      meanExpand: ['<i class="far fa-plus"></i>'],
-    });
+    // $("#mobile-menu").meanmenu({
+    //   meanMenuContainer: ".mobile-menu",
+    //   meanScreenWidth: "1199",
+    //   meanExpand: ['<i class="far fa-plus"></i>'],
+    // });
 
     /*-----------------------------------
           02. Sidebar Toggle  
         -----------------------------------*/
-    $(".offcanvas__close,.offcanvas__overlay").on("click", function () {
-      $(".offcanvas__info").removeClass("info-open");
-      $(".offcanvas__overlay").removeClass("overlay-open");
-    });
-    $(".sidebar__toggle").on("click", function () {
-      $(".offcanvas__info").addClass("info-open");
-      $(".offcanvas__overlay").addClass("overlay-open");
-    });
+    // $(".offcanvas__close,.offcanvas__overlay").on("click", function () {
+    //   $(".offcanvas__info").removeClass("info-open");
+    //   $(".offcanvas__overlay").removeClass("overlay-open");
+    // });
+    // $(".sidebar__toggle").on("click", function () {
+    //   $(".offcanvas__info").addClass("info-open");
+    //   $(".offcanvas__overlay").addClass("overlay-open");
+    // });
 
     /*-----------------------------------
           03. Body Overlay 
         -----------------------------------*/
-    $(".body-overlay").on("click", function () {
-      $(".offcanvas__area").removeClass("offcanvas-opened");
-      $(".df-search-area").removeClass("opened");
-      $(".body-overlay").removeClass("opened");
-    });
+    // $(".body-overlay").on("click", function () {
+    //   $(".offcanvas__area").removeClass("offcanvas-opened");
+    //   $(".df-search-area").removeClass("opened");
+    //   $(".body-overlay").removeClass("opened");
+    // });
 
     /*-----------------------------------
           04. Sticky Header 
         -----------------------------------*/
-    $(window).scroll(function () {
-      if ($(this).scrollTop() > 250) {
-        $("#header-sticky").addClass("sticky");
-      } else {
-        $("#header-sticky").removeClass("sticky");
-      }
-    });
+    // $(window).scroll(function () {
+    //   if ($(this).scrollTop() > 250) {
+    //     $("#header-sticky").addClass("sticky");
+    //   } else {
+    //     $("#header-sticky").removeClass("sticky");
+    //   }
+    // });
 
     /*-----------------------------------
           05. Counterup 

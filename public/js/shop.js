@@ -6,7 +6,7 @@ const perPage = 15;
 
 // Load products on shop page
 function loadProducts() {
-  fetch("assets/json/products.json")
+  fetch("json/products.json")
     .then((response) => response.json())
     .then((products) => {
       allProducts = products;
@@ -122,7 +122,7 @@ function createProductCard(product) {
   colDiv.innerHTML = `
     <div class="shop-card-items style2">
         <div class="thumb">
-            <img src="assets/${product.images[0]}" alt="${product.name}" height="250" width="250"
+            <img src="/${product.images[0]}" alt="${product.name}" height="250" width="250"
                  onerror="this.src='assets/images/placeholder.jpg'; this.alt='Image not available'" style="margin-left:-20px;border:1px solid gray"/>
         </div>
         <ul class="star-wrapper style1"></ul>

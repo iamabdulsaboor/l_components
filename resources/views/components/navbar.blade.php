@@ -19,7 +19,7 @@
     <ul class="desktop-menu">
       <li><a href="{{ route('welcome') }}">HOME</a></li>
       <li><a href="{{ route('about') }}">ABOUT</a></li>
-      <li><a href="{{ route('gallery') }}">GALLERY</a></li>
+      <li><a href="{{ route('our-gallery') }}">GALLERY</a></li>
       <li><a href="{{ route('shop') }}">SHOP</a></li>
       <li><a href="{{ route('contact') }}">CONTACT</a></li>
       <li style="padding-left: 196px;"><a href="contact.html" class="quote-btn">GET A QUOTE</a></li>
